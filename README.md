@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Spring and JS frameworks
 - 💞️ I’m looking to collaborate on github & linkedin
-- 📫 How to reach me on [linkedin](https://www.linkedin.com/in/kumarmohit19/) or via mail @ <a href="http://mailto:m.kumarmohit19@gmail.com" target="\blank">mail-id</a>
+- 📫 How to reach me on [linkedin](https://www.linkedin.com/in/kumarmohit19/) or via mail @ <a href="mailto:m.kumarmohit19@gmail.com" target="\blank">mail-id</a>
 
 <!---
 kumarmohit19/kumarmohit19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
