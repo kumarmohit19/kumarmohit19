@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kumar Mohit
+- 👋 Hi, I’m Mohit
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Spring and JS frameworks
 - 💞️ I’m looking to collaborate on github & linkedin
